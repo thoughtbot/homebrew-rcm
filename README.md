@@ -3,14 +3,15 @@ homebrew-rcm
 
 Usage:
 
-    brew tap mike-burns/rcm
+    brew tap thoughtbot/rcm
     brew install rcm
 
 For further instructions see [the
-documentation](http://mike-burns.github.io/rcm) and [the GitHub
-repo](https://github.com/mike-burns/rcm).
+documentation](http://thoughtbot.github.io/rcm) and [the GitHub
+repo](https://github.com/thoughtbot/rcm).
 
 Author
 ------
 
-Copyright 2013 Mike Burns. Licensed under the BSD 3-clause license.
+Copyright 2013 Mike Burns and thoughtbot. Licensed under the BSD
+3-clause license.
